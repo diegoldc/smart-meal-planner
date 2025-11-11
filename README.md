@@ -1,4 +1,4 @@
-# 🛒 MealOptimizer  
+#  🛒 MealOptimizer  
 **Generador inteligente de menús semanales + comparador de precios reales**  
 _Proyecto full-stack con OCR e IA basada estrictamente en datos reales._
 
